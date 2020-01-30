@@ -5,7 +5,7 @@ public class Car extends Machine {
 	
 	@Override
 	public void start() {
-		System.out.println("Car startdsfdsfdsfsed");
+		System.out.println("Car startdsfdsfśd");
 	}
 
 	public void lightsOn () {
